@@ -1,4 +1,3 @@
-This is an exapmle of how to host a P5 sketch on the internets
 function setup() {
   createCanvas(400, 400);
 }
